@@ -1,6 +1,6 @@
 # VAL-007 — Operational Qualification (OQ)
 
-## SENAITE LIMS 2.6.0 — Kareem Life Sciences Ltd
+## SENAITE LIMS 2.6.0 
 
 |Field|Value|
 |-|-|
