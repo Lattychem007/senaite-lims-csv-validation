@@ -1,6 +1,6 @@
 # VAL-006 — Installation Qualification (IQ)
 
-## SENAITE LIMS 2.6.0 — Kareem Life Sciences Ltd
+## SENAITE LIMS 2.6.0
 
 |Field|Value|
 |-|-|
