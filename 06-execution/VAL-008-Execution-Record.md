@@ -1,5 +1,5 @@
 # VAL-008 — Execution Record
-## SENAITE LIMS 2.6.0 — Oak Life Sciences Ltd
+## SENAITE LIMS 2.6.0 — Kareem Life Sciences Ltd
 
 | Field | Value |
 |---|---|
