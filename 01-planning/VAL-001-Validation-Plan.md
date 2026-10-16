@@ -1,4 +1,4 @@
-# VAL-001 — Validation Plan
+# VAL-001 : Validation Plan
 
 ## SENAITE LIMS
 
