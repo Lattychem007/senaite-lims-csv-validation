@@ -24,13 +24,7 @@ open-source software, not a production validation for a regulated client.
 |Version|2.6.0 (confirmed from the running container)|
 |Platform|Plone / Zope / Python|
 |Deployment|Docker, ZEO-clustered (zeo + instance)|
-|GAMP 5 category|4 — configured product|
-
-## Scenario
-
-The system is validated for **Kareem Life Sciences Ltd**, a contract pharmaceutical QC testing
-laboratory, performing finished-product release testing (Assay) on tablet products submitted
-by a manufacturer client (**Oak Pharm Ltd**).
+|GAMP 5 category|4 configured product|
 
 ## Approach
 
