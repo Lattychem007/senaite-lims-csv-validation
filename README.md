@@ -1,4 +1,4 @@
-# SENAITE LIMS — Computer System Validation Package
+# SENAITE LIMS : Computer System Validation Package
 
 A hands-on **computer system validation (CSV)** project validating **SENAITE LIMS**
 (an open-source laboratory information management system) against **GAMP 5**, EU GMP
