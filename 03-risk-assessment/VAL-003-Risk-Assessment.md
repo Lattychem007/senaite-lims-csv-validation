@@ -1,4 +1,4 @@
-# VAL-003 — Risk Assessment
+# VAL-003 : Risk Assessment
 
 ## SENAITE LIMS
 
