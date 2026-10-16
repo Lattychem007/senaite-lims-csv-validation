@@ -1,4 +1,4 @@
-# VAL-002 — System Description
+# VAL-002 : System Description
 
 ## SENAITE LIMS
 
@@ -29,10 +29,10 @@ traceability must be assured.
 
 ## 3\. GAMP 5 categorisation
 
-**Category 4 — configured product.**
+**Category 4  configured product.**
 
 SENAITE is an existing open-source software product that is adapted using its built-in
-configuration tools — clients, sample types, analysis services, user roles and workflows — to
+configuration tools , clients, sample types, analysis services, user roles and workflows  to
 match the laboratory's processes, without changing the underlying source code. Validation
 therefore focuses on the configuration and the intended use, while the core software is
 leveraged from the vendor/community build. Any custom code or bespoke add-on introduced would
