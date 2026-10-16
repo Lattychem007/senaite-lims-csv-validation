@@ -1,4 +1,4 @@
-# VAL-007 — Operational Qualification (OQ)
+# VAL-007 : Operational Qualification (OQ)
 
 ## SENAITE LIMS 2.6.0 
 
