@@ -10,7 +10,7 @@
 |Deployment|Docker, ZEO-clustered|
 |Author|Kareem A. Ojo|
 |Date|20 Sept. 2026|
-|Status|Draft — effective on approval (Section 11)|
+|Status|Draft - effective on approval (Section 11)|
 
 ## 1\. Purpose
 
@@ -20,7 +20,7 @@ deliverables, responsibilities and acceptance criteria for the validation.
 
 ## 2\. Scope
 
-**In scope** — the following SENAITE functions as configured:
+**In scope**  the following SENAITE functions as configured:
 
 * Sample (Analysis Request) registration and lifecycle
 * Analysis result entry, submission and verification
@@ -30,9 +30,9 @@ deliverables, responsibilities and acceptance criteria for the validation.
 
 **Out of scope, with justification:**
 
-* Invoicing / financial functions — no GxP impact
-* Instrument interfacing — not configured in this installation
-* Report / certificate layout — cosmetic, no data-integrity impact
+* Invoicing / financial functions- no GxP impact
+* Instrument interfacing not configured in this installation
+* Report / certificate layout - cosmetic, no data-integrity impact
 * Underlying Plone/Zope platform and Docker infrastructure — treated as supplier-supplied
 infrastructure (GAMP Category 1); assessed at configuration level only
 
