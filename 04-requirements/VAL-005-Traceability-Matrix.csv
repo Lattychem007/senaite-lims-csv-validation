@@ -1,7 +1,7 @@
 Req ID,Requirement (short),Risk ID,RPN,Test Case,Expected Outcome,Actual Result,Pass/Fail,Deviation,Evidence,Status
-REQ-01,Result change retains old value + user + timestamp,R-01,48,TC-01,Audit Log shows prior value + changed-by user + system timestamp,[TO EXECUTE — see note],EXECUTED,,EV-01,Pending execution
-REQ-02,No self-verification of own result,R-02,36,TC-02,Setting exists; when enabled submitting user cannot verify own result,[TO EXECUTE], EXECUTED,,EV-02,Pending execution
-REQ-03,No hard delete; cancel retains record,R-03,32,TC-03,No permanent delete; cancel/invalidate retains record + history,[TO EXECUTE],[TO EXECUTE],,EV-03,Pending execution
+REQ-01,Result change retains old value + user + timestamp,R-01,48,TC-01,Audit Log shows prior value + changed-by user + system timestamp,CONFIRMED ,EXECUTED,,EV-01,Pending execution
+REQ-02,No self-verification of own result,R-02,36,TC-02,Setting exists; when enabled submitting user cannot verify own result,CONFIRMED , EXECUTED,,EV-02,Pending execution
+REQ-03,No hard delete; cancel retains record,R-03,32,TC-03,No permanent delete; cancel/invalidate retains record + history,CONFIRMED ,CONFIRMED ,,EV-03,Pending execution
 REQ-04,Audit trail system-generated over key actions,R-04,32,TC-04,Audit Log present and records create/change/verify,CONFIRMED present (Audit Log tab observed),[partial — scope to confirm],,EV-04,Audit trail existence CONFIRMED
 REQ-05,All actions attributable to a user + timestamp,R-05,24,TC-05,Each log entry shows named user + timestamp,[TO EXECUTE],[TO EXECUTE],,EV-05,Pending execution
 REQ-06,Separate Analyst and Verifier roles,R-06,27,TC-06,Distinct Analyst and Verifier groups/roles exist,CONFIRMED (Groups page: Analysts->Analyst; Verifiers->Verifier),PASS (role separation present),Pass,EV-06,CONFIRMED
