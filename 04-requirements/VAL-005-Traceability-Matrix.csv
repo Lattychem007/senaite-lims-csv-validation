@@ -1,5 +1,5 @@
 Req ID,Requirement (short),Risk ID,RPN,Test Case,Expected Outcome,Actual Result,Pass/Fail,Deviation,Evidence,Status
-REQ-01,Result change retains old value + user + timestamp,R-01,48,TC-01,Audit Log shows prior value + changed-by user + system timestamp,CONFIRMED ,Passed,,EV-01,CONFIRMED
+REQ-01,Result change retains old value + user + timestamp,R-01,48,TC-01,Audit Log shows prior value + changed-by user + system timestamp,CONFIRMED ,On going,,EV-01, In progress
 REQ-02,No self-verification of own result,R-02,36,TC-02,Setting exists; when enabled submitting user cannot verify own result,CONFIRMED , passed,,EV-02,CONFIRMED
 REQ-03,No hard delete; cancel retains record,R-03,32,TC-03,No permanent delete; cancel/invalidate retains record + history,CONFIRMED ,passed ,,EV-03,CONFIRMED
 REQ-04,Audit trail system-generated over key actions,R-04,32,TC-04,Audit Log present and records create/change/verify,CONFIRMED present (Audit Log tab observed),[partial — scope to confirm],,EV-04,Audit trail existence CONFIRMED
